@@ -1,0 +1,4 @@
+﻿  linkedQueue.cpp
+C:\Users\공민혁(로컬)\Desktop\C\04.27\3\linkedQueue.cpp(3,13): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+Debug\linkedQueue.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+  3.vcxproj -> C:\Users\공민혁(로컬)\Desktop\C\04.27\Debug\3.linkedList.exe
